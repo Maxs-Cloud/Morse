@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+morse_checkpoints_v2/
+morse_cache/
+*.pt
+*.pth
+*.csv
+*.opus
+*.wav
+.git/
+.vscode/
+.idea/
