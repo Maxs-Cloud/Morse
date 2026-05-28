@@ -106,7 +106,6 @@ class DiskCacheDataset(Dataset):
         mel = mel[:, ::TIME_DOWNSAMPLE]
         return mel, self.targets[idx]
 
-# ---------- Collate ----------
 def collate_fn(batch):
     mels, targets = zip(*batch)
     lengths = [m.shape[1] for m in mels]
@@ -183,7 +182,6 @@ class ResidualBlock(nn.Module):
         out = F.relu(out)
         return out
 
-# ---------- Позиционное кодирование ----------
 class PositionalEncoding(nn.Module):
     def __init__(self, d_model, max_len=4000):
         super().__init__()
