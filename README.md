@@ -55,7 +55,11 @@ Conformer Encoder + CTC. 12 блоков с self-attention (относитель
 
 Сравнение моделей
 
-MorseTransformer 3.4M ~0.50 Transformer, SE‑блоки
-MorseCRNN v2 1.8M 0.24 BiLSTM, проще и точнее
-Conformer 2.7M ~0.29, Ещё учится
+MorseTransformer 3.4M ~0.50 Transformer, SE‑блоки.
+
+MorseCRNN v2 1.8M 0.24 BiLSTM, проще и точнее.
+
+Conformer 2.7M ~0.29, Ещё учится.
 ```
+:<img width="413" height="379" alt="1425965076_1241808879" src="https://github.com/user-attachments/assets/5b203923-ccd4-4096-a6a1-12038cc82086" />
+
