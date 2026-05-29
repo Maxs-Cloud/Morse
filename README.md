@@ -1,7 +1,7 @@
 ```markdown
 # Morse Decoder
 
-Распознавание азбуки Морзе с помощью нейросети (CNN + Transformer + CTC).
+Распознавание азбуки Морзе с помощью нейросети (BiLSTM/Transformer/Conformer + CTC).
 
 ## Установка
 
