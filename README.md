@@ -61,5 +61,4 @@ MorseCRNN v2 1.8M 0.24 BiLSTM, проще и точнее.
 
 Conformer 2.7M ~0.29, Ещё учится.
 ```
-:<img width="413" height="379" alt="1425965076_1241808879" src="https://github.com/user-attachments/assets/5b203923-ccd4-4096-a6a1-12038cc82086" />
-
+<img width="413" height="379" alt="1425965076_1241808879" src="https://github.com/user-attachments/assets/3da8f515-a0ca-43d4-97e8-37eb68c26030" />
