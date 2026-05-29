@@ -61,5 +61,5 @@ MorseCRNN v2 1.8M 0.24 BiLSTM, проще и точнее.
 
 Conformer 2.7M ~0.29, Ещё учится.
 ```
-https://github.com/Maxs-Cloud/Morse/blob/217a88b4b824be1449e60c9af27ddb63ebeda55e/Image1435.jpg
+![Тут было изображение морзянки](Image1435.jpg)
 
